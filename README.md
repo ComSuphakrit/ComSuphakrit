@@ -24,13 +24,13 @@ Web Developer 💻 \[ Rookie 🥚 \]
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/SuphakritBoonlar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/ComSuphakrit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SuphakritBoonlar"><img src="https://github-readme-stats.vercel.app/api?username=SuphakritBoonlar&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="SuphakritBoonlar's GitHub stats" /></a>
+<a href="http://www.github.com/ComSuphakrit"><img src="https://github-readme-stats.vercel.app/api?username=ComSuphakrit&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ComSuphakrit's GitHub stats" /></a>
 
-<a href="http://www.github.com/SuphakritBoonlar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SuphakritBoonlar&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ComSuphakrit"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ComSuphakrit&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/SuphakritBoonlar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuphakritBoonlar&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ComSuphakrit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComSuphakrit&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
